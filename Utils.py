@@ -147,7 +147,7 @@ def changeBorder(a, b):
 def toFixed(numObj, digits=0):
     return f"{numObj:.{digits}f}"
 
-
+#ubbubub
 def drawImage(fun: AbstractFunction):
     X = np.linspace(-4, 4, 100)
     Y = fun.find(X)
